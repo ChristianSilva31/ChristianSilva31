@@ -1,8 +1,8 @@
 # 👩🏻‍💻 Christian Silva 
 
-**`Desenvolvedor FullStack`**
+**`FullStack Developer`**
 
-Me chamo Christian Silva, tenho 26 anos e sou natural do Rio Grande do Sul. Atualmente, estou cursando Ciencias da Computação na Universidade de Caxias do Sul. Sou apaixonada por tecnologia e compartilho meu conhecimento através do meu canal no YouTube "[ChristianSilva31](https://www.youtube.com/@ChrisBadly)", onde mostro meus projetos , e também através do Instagram, com o perfil chamado "[ChrisBadly](https://www.instagram.com/ChrisBadly/)".
+Hey! I’m Christian Silva, 26, from Rio Grande do Sul, Brazil. I’m studying Computer Science at the University of Caxias do Sul. I love tech and like to share what I’m building on my YouTube channel "ChristianSilva31" and on Instagram as "ChrisBadly".
 
 <p align="left">
     <a href="https://www.youtube.com/@ChrisBadly?sub_confirmation=1">
