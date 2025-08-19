@@ -49,8 +49,8 @@ Me chamo Christian Silva, tenho 26 anos e sou natural do Rio Grande do Sul. Atua
 />
 <img 
     align="left" 
-    alt="C++" 
-    title="C++"
+    alt="Cpp" 
+    title="Cpp"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"
